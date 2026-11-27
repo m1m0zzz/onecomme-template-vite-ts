@@ -16,7 +16,7 @@
     "@types/archiver": "7.0.0",
     "@types/node": "25.9.9",
     "archiver": "7.0.1",
-    "oxfmt": "0.47.0",
+    "oxfmt": "0.80.0",
     "oxlint": "1.95.0",
     "terser": "5.51.4",
     "tsx": "4.23.15",
