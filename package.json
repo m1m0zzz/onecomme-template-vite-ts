@@ -13,9 +13,9 @@
   },
   "devDependencies": {
     "@onecomme.com/onesdk": "9.0.0-alpha.3",
-    "@types/archiver": "7.0.0",
+    "@types/archiver": "8.0.0",
     "@types/node": "25.9.12",
-    "archiver": "7.0.1",
+    "archiver": "8.0.0",
     "oxfmt": "0.47.0",
     "oxlint": "1.95.0",
     "terser": "5.51.4",
